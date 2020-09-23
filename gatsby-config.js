@@ -1,8 +1,8 @@
 module.exports = {
   siteMetadata: {
-    title: `Pragya Sabharwal Blog`,
+    title: `Pragya Sabharwal's Blog`,
     author: {
-      name: `Pragya Sabharwa;`,
+      name: `Pragya Sabharwal;`,
       summary: `Undergrad living in Delhi. Likes to write for a living.`
     },
     description: `A starter blog.`,
