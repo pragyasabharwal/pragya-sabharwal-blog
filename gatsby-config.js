@@ -3,14 +3,11 @@ module.exports = {
     title: `Pragya Sabharwal's Blog`,
     author: {
       name: `Pragya Sabharwal`,
-      summary: `Undergrad living in Delhi."\n" 
+      summary: `Undergrad living in Delhi.\n 
                 Writer in day. Coder by night.`
     },
     description: `A starter blog.`,
-    siteUrl: `https://pragyasabharwalblog.netlify.app/`,
-    social: {
-      instagram: `pragyaasabharwal`
-    }
+    siteUrl: `https://pragyasabharwalblog.netlify.app/`
   },
   plugins: [
     {
