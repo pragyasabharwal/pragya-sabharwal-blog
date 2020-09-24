@@ -2,8 +2,8 @@ module.exports = {
   siteMetadata: {
     title: `Pragya Sabharwal's Blog`,
     author: {
-      name: `Pragya Sabharwal;`,
-      summary: `Undergrad living in Delhi. Likes to write for a living.`
+      name: `Pragya Sabharwal`,
+      summary: `Undergrad living in Delhi. Writer in day. Coder by night.`
     },
     description: `A starter blog.`,
     siteUrl: `https://pragyasabharwalblog.netlify.app/`,
